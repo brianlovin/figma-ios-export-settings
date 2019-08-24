@@ -1,0 +1,5 @@
+{
+  "api": "1.0.0",
+  "name": "iOS Export Settings",
+  "main": "src/plugin.ts"
+}
