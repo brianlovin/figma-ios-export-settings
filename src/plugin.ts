@@ -10,7 +10,7 @@ const settings = [
   { format: "PNG", suffix: "-20@3x", constraint: { type: "WIDTH", value: 60 }},
   { format: "PNG", suffix: "-29@1x", constraint: { type: "WIDTH", value: 29 }},
   { format: "PNG", suffix: "-29@2x", constraint: { type: "WIDTH", value: 58 }},
-  { format: "PNG", suffix: "-20@3x", constraint: { type: "WIDTH", value: 87 }},
+  { format: "PNG", suffix: "-29@3x", constraint: { type: "WIDTH", value: 87 }},
   { format: "PNG", suffix: "-40@1x", constraint: { type: "WIDTH", value: 40 }},
   { format: "PNG", suffix: "-40@2x", constraint: { type: "WIDTH", value: 80 }},
   { format: "PNG", suffix: "-40@3x", constraint: { type: "WIDTH", value: 120 }},
